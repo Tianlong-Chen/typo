@@ -23,11 +23,12 @@ dbfile = File.expand_path("../config/database.yml", __FILE__)
 #   gem 'pg'
 # end
 
-gem 'pg'
-
 source 'https://rubygems.org'
 ruby "1.9.3"
 
+
+
+gem 'pg'
 gem 'thin'
 gem 'rails', '~> 3.0.10'
 gem 'require_relative'
