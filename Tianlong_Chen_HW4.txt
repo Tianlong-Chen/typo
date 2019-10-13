@@ -1,0 +1,4 @@
+Github:
+https://github.com/TianlongChenTAMU/typo
+Heroku app:
+https://cryptic-garden-00078.herokuapp.com
